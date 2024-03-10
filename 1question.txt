@@ -1,0 +1,4 @@
+1. Explain the relationship between the "Product" and "Product_Category" entities from the above diagram.
+Answer:
+1. One to many, because one Product Category can have many Products.
+2.Single.

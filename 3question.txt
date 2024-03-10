@@ -1,0 +1,7 @@
+3. Create schema in any Database script or any ORM (Object Relational Mapping).
+Answer:
+Click File > Create Schema
+Enter a name for the schema
+Click Apply
+In the Apply SQL Script to Database window, click Apply to run the SQL command that creates the schema
+Click Finish
